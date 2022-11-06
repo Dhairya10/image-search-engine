@@ -16,7 +16,8 @@ The final output would look like this
 
 
 ## System Usage
-I ran the code to sort through ~8k images on my local system. It took ~5 mins
+I ran the code to sort through ~8k images on my local system (Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz). 
+It took ~5 mins
 The `htop` output is attached below for reference
 
 ![htop](https://github.com/Dhairya10/image-search-engine/blob/master/assets/htop.png?raw=true)
