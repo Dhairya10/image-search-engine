@@ -1,0 +1,5 @@
+Pillow==8.3.1
+faiss==1.7.2
+gradio==3.8.2
+numpy
+torch

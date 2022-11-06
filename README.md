@@ -1,7 +1,9 @@
 # Image Search Engine
 This repository contains the code to build an image search engine with [CLIP](https://openai.com/blog/clip/) and [FAISS](https://github.com/facebookresearch/faiss/wiki/)
+
 If you want to know more about the project, please check out this blog
-If you want a video walkthrough of the project, check out this video
+
+If you want a video walkthrough of the project, check out [this](https://www.youtube.com/watch?v=bCP-CHmn-DI) video
 
 ## Project Overview
 * We will use CLIP to create an embedding for source images, the query image and also the query text
