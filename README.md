@@ -12,11 +12,11 @@ If you want a video walkthrough of the project, check out [this](https://www.you
 * A live app will be deployed with Gradio
 
 The final output would look like this
-![app](https://github.com/Dhairya10/image-search-engine/blob/master/app.png?raw=true)
+![app](https://github.com/Dhairya10/image-search-engine/blob/master/assets/app.png?raw=true)
 
 
 ## System Usage
 I ran the code to sort through ~8k images on my local system. It took ~5 mins
 The `htop` output is attached below for reference
 
-![htop](https://github.com/Dhairya10/image-search-engine/blob/master/htop.png?raw=true)
+![htop](https://github.com/Dhairya10/image-search-engine/blob/master/assets/htop.png?raw=true)
